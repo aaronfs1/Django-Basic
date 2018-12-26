@@ -1,0 +1,12 @@
+li a {
+    color: white;
+    font-size: x-large; 
+    font-style: oblique;
+    font-feature-settings: "smpl";
+    font-weight: bold;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
+
